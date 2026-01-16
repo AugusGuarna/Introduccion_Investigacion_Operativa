@@ -16,5 +16,3 @@ This repository contains academic materials and implementations for the **Introd
 - **Tools:** ZIMPL, SCIP.
 - **Concepts:** Simplex Method, Duality, Integer Programming, Combinatorial Optimization.
 
----
-*Developed as part of the B.S. in Data Science curriculum at UBA.*
